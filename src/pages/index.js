@@ -11,6 +11,7 @@ const IndexPage = () => (
     <h1>Hello Friends</h1>
     <p>Welcome to my Gatsby site running on Digital Ocean's App Platform!</p>
     <p>Now... I'll go build something great!</p>
+    <p>But first, I'm updating and commiting this file to see if it triggers a rebuild of the site automagically!</p>
     <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
       <Image />
     </div>
